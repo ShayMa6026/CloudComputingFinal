@@ -1,0 +1,16 @@
+lambda/service1/Request.class
+lambda/service1/Helpers.class
+saaf/Inspector.class
+lambda/service2/LoadToDB.class
+saaf/Response.class
+local/Local.class
+lambda/service1/TransformCSV.class
+ibm/Hello.class
+lambda/service2/LoadToDBTest$1.class
+lambda/service3/Request.class
+lambda/service3/Response.class
+lambda/service2/LoadToDBTest$1$1.class
+lambda/service1/TransfromLocalTest.class
+lambda/service3/Query.class
+lambda/service2/LoadToDBTest.class
+lambda/service2/LoadRequest.class
